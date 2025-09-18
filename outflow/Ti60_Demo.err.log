@@ -1,0 +1,537 @@
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jun 24, 2023 14:48:59
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 19, 2023 10:00:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 19, 2023 10:09:16
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 20, 2023 14:40:57
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 14:52:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 15:52:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:01:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:06:50
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:12:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:19:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:32:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:35:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:47:42
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:48:08
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 16:54:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:02:47
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:10:49
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:16:45
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:24:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 17:33:28
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 20, 2025 18:02:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:00:59
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'delay_reg' (VERI-1063) (D:\FPGA_learning\Efinity_Project\Ti60F225_AD2020\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\example_top.v:1045)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:02:04
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:05:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:12:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:17:29
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'R0_FIFO_32' (VERI-1063) (D:\FPGA_learning\Efinity_Project\Ti60F225_AD2020\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\src\axi\axi4_ctrl.v:445)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:17:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:23:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:28:11
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:28:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:34:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:40:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:43:56
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] instantiating unknown module 'bad_dot_improve' (VERI-1063) (D:\FPGA_learning\Efinity_Project\Ti60F225_AD2020\Ti60F225_AD2020_1280x720@30_HDMI_BasicISP\example_top.v:1078)
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:44:43
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:53:15
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 10:56:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:02:35
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:04:30
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:18:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:25:31
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:28:39
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:38:19
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:45:24
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Mar 25, 2025 11:52:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 09:26:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 09:26:34
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 09:28:23
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 10:57:21
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 11:12:10
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// May 12, 2025 11:17:20
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:29:14
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:34:37
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:39:17
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:39:29
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 10:58:32
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:06:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:14:01
+///////////////////////////////////
+
+[EFX-0202 ERROR] Net 'w_csi_rx_clk' has multiple drivers. (D:\temp_colorbar\Ti60F225_AD2020_HDMI_Display\example_top.v:673)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:15:48
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:22:12
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] overwriting previous definition of module 'Row_Line_Counter' (VERI-1206) (D:\temp_colorbar\Ti60F225_AD2020_HDMI_Display\Row_Line_Counter.v:84)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:22:26
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:43:25
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:51:22
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 11:56:33
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:00:38
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:02:36
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:05:09
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 12:08:00
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Jul 22, 2025 18:02:55
+///////////////////////////////////
+
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 31, 2025 22:18:49
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Aug 31, 2025 22:19:10
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 01, 2025 09:33:47
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 01, 2025 09:35:32
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 01, 2025 10:24:31
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'E:/ti60f225/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 15, 2025 17:36:54
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] ANSI port 'csi_rxd0_rst_o' cannot be redeclared (VERI-2285) (D:\engineering\fpag\efinity\Ti60F225_AD2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:144)
+[EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\engineering\fpag\efinity\Ti60F225_AD2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1416)
