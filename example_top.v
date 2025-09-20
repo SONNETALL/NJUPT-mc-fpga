@@ -141,7 +141,7 @@ module example_top
 	input 			csi_rxc_i,// 接收时钟通道数据输入
 	
 	//	MIPI-CSI RXD0
-	output 			csi_rxd0_rst_o,csi_rxd0_rst_o,   // 数据通道0复位信号
+	output 			csi_rxd0_rst_o,   // 数据通道0复位信号
 	output 			csi_rxd0_hs_en_o,// 数据通道0高速模式使能
 	output 			csi_rxd0_hs_term_en_o,// 数据通道0高速模式终端电阻使能
 	
