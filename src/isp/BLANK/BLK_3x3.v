@@ -46,6 +46,20 @@ end
 ////////////////////////////////////////////////////////////////////////////////
 // 3x3窗口输出
 ////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+// 像素移位（用于第三行）
+////////////////////////////////////////////////////////////////////////////////
+reg [7:0] per_img_Y_prev1, per_img_Y_next1;
+always @(posedge clk or negedge rst_n) begin
+    if(!rst_n) begin
+        per_img_Y_prev1 <= 0;
+        per_img_Y_next1 <= 0;
+    end else begin
+        per_img_Y_prev1 <= per_img_Y;
+        per_img_Y_next1 <= per_img_Y_prev1;
+    end
+end
+
 always @(posedge clk or negedge rst_n) begin
     if(!rst_n) begin
         matrix_p11 <= 0; matrix_p12 <= 0; matrix_p13 <= 0;
@@ -72,20 +86,6 @@ always @(posedge clk or negedge rst_n) begin
         matrix_frame_vsync <= per_frame_vsync;
         matrix_frame_href  <= per_frame_href;
         matrix_frame_hsync <= per_frame_hsync;
-    end
-end
-
-////////////////////////////////////////////////////////////////////////////////
-// 像素移位（用于第三行）
-////////////////////////////////////////////////////////////////////////////////
-reg [7:0] per_img_Y_prev1, per_img_Y_next1;
-always @(posedge clk or negedge rst_n) begin
-    if(!rst_n) begin
-        per_img_Y_prev1 <= 0;
-        per_img_Y_next1 <= 0;
-    end else begin
-        per_img_Y_prev1 <= per_img_Y;
-        per_img_Y_next1 <= per_img_Y_prev1;
     end
 end
 
