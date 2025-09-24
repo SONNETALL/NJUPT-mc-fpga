@@ -21,7 +21,7 @@ wire [7:0] post_img_blue;
 // 实例化待测模块
 GaussianHighlightSuppressor #(
     .DATA_WIDTH(8),
-    .THRESHOLD(200)
+    .THRESHOLD(220)
 ) uut (
     .clk(clk),
     .rst_n(rst_n),
@@ -31,9 +31,9 @@ GaussianHighlightSuppressor #(
     .per_img_red(per_img_red),
     .per_img_green(per_img_green),
     .per_img_blue(per_img_blue),
-    .post_frame_vsync(post_frame_vsync),
-    .post_frame_hsync(post_frame_hsync),
-    .post_frame_href(post_frame_href),
+    .post_matrix_frame_vsync(post_frame_vsync),
+    .post_matrix_frame_href(post_frame_href),
+    .post_matrix_frame_hsync(post_frame_hsync),
     .post_img_red(post_img_red),
     .post_img_green(post_img_green),
     .post_img_blue(post_img_blue)
@@ -41,13 +41,13 @@ GaussianHighlightSuppressor #(
 
 // 时钟生成
 initial clk = 0;
-always #5.555 clk = ~clk; // 90MHz
+always #5 clk = ~clk; // 100MHz
 
 // 激励过程
 initial begin
     rst_n = 0;
     per_frame_vsync = 1;
-    per_frame_hsync = 0;
+    per_frame_hsync = 1;
     per_frame_href = 0;
     per_img_red = 0;
     per_img_green = 0;
@@ -58,21 +58,20 @@ initial begin
     // 模拟一帧数据
     repeat(2) begin // 两帧
         per_frame_vsync = 0;
-        #10;
+        #20;
         per_frame_vsync = 1;
         repeat(10) begin // 五行
-            per_frame_hsync = 1;
-            #10;
             per_frame_hsync = 0;
+            #10;
+            per_frame_hsync = 1;
+            per_frame_href = 1;
             repeat(8) begin // 八个像素
-                per_frame_href = 1;
                 per_img_red = $random % 256;
                 per_img_green = $random % 256;
                 per_img_blue = $random % 256;
                 #10;
-                per_frame_href = 0;
-                #10;
             end
+            per_frame_href = 0;
         end
     end
 

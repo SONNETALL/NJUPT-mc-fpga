@@ -7,7 +7,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 module GaussianHighlightSuppressor #(
     parameter DATA_WIDTH = 8,
-    parameter THRESHOLD  = 200 // 高光阈值
+    parameter THRESHOLD  = 220 // 高光阈值
 )(
     input                   clk,                // 时钟信号（90MHz）
     input                   rst_n,              // 异步复位信号
@@ -23,9 +23,9 @@ module GaussianHighlightSuppressor #(
     input   [DATA_WIDTH-1:0] per_img_blue,      // 输入蓝色分量
 
     // 输出时序信号
-    output reg                  post_frame_vsync,   // 输出帧同步
-    output reg                  post_frame_hsync,   // 输出行同步
-    output reg                  post_frame_href,    // 输出行有效
+    output                   post_matrix_frame_vsync,   // 输出帧同步
+    output                   post_matrix_frame_href,   // 输出行同步
+    output                  post_matrix_frame_hsync,    // 输出行有效
 
     // 输出RGB888数据
     output reg  [DATA_WIDTH-1:0] post_img_red,      // 输出红色分量
@@ -143,9 +143,6 @@ always @(posedge clk or negedge rst_n) begin
         post_img_red   <= 0;
         post_img_green <= 0;
         post_img_blue  <= 0;
-        post_frame_vsync <= 0;
-        post_frame_hsync <= 0;
-        post_frame_href  <= 0;
     end else begin
         if(is_highlight) begin
             post_img_red   <= post_img_red_gauss;
@@ -156,10 +153,34 @@ always @(posedge clk or negedge rst_n) begin
             post_img_green <= per_img_green;
             post_img_blue  <= per_img_blue;
         end
-        post_frame_vsync <= per_frame_vsync;
-        post_frame_hsync <= per_frame_hsync;
-        post_frame_href  <= per_frame_href;
     end
 end
 
+//------------------------------------------
+//lag 2 clocks signal sync  
+reg [2:0]   per_frame_vsync_r;
+reg [2:0]   per_frame_href_r;   
+reg [2:0]   per_frame_hsync_r; 
+reg [2:0]   per_frame_clken_r;
+always@(posedge clk or negedge rst_n)
+begin
+    if(!rst_n)
+        begin
+        per_frame_vsync_r <= 0;
+        per_frame_href_r <= 0;
+	  per_frame_hsync_r <= 0; 
+        end
+    else
+        begin
+        per_frame_vsync_r   <=  {per_frame_vsync_r[1:0],    per_frame_vsync};
+        per_frame_href_r    <=  {per_frame_href_r[1:0],     per_frame_href};
+	  per_frame_hsync_r   <=  {per_frame_hsync_r[1:0],    per_frame_hsync}; 
+        end
+end
+//Give up the 1th and 2th row edge data caculate for simple process
+//Give up the 1th and 2th point of 1 line for simple process
+wire    read_frame_href     =   per_frame_href_r[0]|per_frame_href_r[1];    //RAM read href sync signal
+assign  post_matrix_frame_vsync  =   per_frame_vsync_r[2];
+assign  post_matrix_frame_href   =   per_frame_href_r[2];
+assign  post_matrix_frame_hsync  =   per_frame_hsync_r[2]; 
 endmodule
