@@ -3,7 +3,7 @@
         "-o",
         "W8R8_D2048_YUV",
         "--base_path",
-        "E:\\ti60f225\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
+        "D:\\engineering\\fpga\\efinity\\Ti60F225_AD2020_HDMI_Display_30FPS\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
         "--vlnv",
         {
             "vendor": "efinixinc.com",
@@ -38,8 +38,8 @@
         "external_source_source": [
             "W8R8_D2048_YUV\\W8R8_D2048_YUV.sv",
             "W8R8_D2048_YUV\\W8R8_D2048_YUV_define.svh",
-            "W8R8_D2048_YUV\\W8R8_D2048_YUV_tmpl.vhd",
-            "W8R8_D2048_YUV\\W8R8_D2048_YUV_tmpl.sv"
+            "W8R8_D2048_YUV\\W8R8_D2048_YUV_tmpl.sv",
+            "W8R8_D2048_YUV\\W8R8_D2048_YUV_tmpl.vhd"
         ],
         "external_example_example": [
             "W8R8_D2048_YUV\\T20F256_devkit\\fifo_demo.peri.xml",
@@ -70,6 +70,6 @@
         ]
     },
     "ooc_synthesis": {},
-    "sw_version": "2025.1.110",
-    "generated_date": "2025-08-27T04:48:35.217893+00:00"
+    "sw_version": "2025.1.110.2.15",
+    "generated_date": "2025-09-24T08:30:05.089596+00:00"
 }

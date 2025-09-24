@@ -3,7 +3,7 @@
         "-o",
         "div_u39_u31",
         "--base_path",
-        "E:\\ti60f225\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
+        "D:\\engineering\\fpga\\efinity\\Ti60F225_AD2020_HDMI_Display_30FPS\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
         "--vlnv",
         {
             "vendor": "efinixinc.com",
@@ -22,10 +22,10 @@
     },
     "output": {
         "external_source_source": [
-            "div_u39_u31\\div_u39_u31_define.vh",
-            "div_u39_u31\\div_u39_u31_tmpl.vhd",
             "div_u39_u31\\div_u39_u31.v",
-            "div_u39_u31\\div_u39_u31_tmpl.v"
+            "div_u39_u31\\div_u39_u31_define.vh",
+            "div_u39_u31\\div_u39_u31_tmpl.v",
+            "div_u39_u31\\div_u39_u31_tmpl.vhd"
         ],
         "external_example_example": [
             "div_u39_u31\\T20F256_devkit\\divider.peri.xml",
@@ -52,6 +52,6 @@
         ]
     },
     "ooc_synthesis": {},
-    "sw_version": "2025.1.110",
-    "generated_date": "2025-08-27T04:48:29.268975+00:00"
+    "sw_version": "2025.1.110.2.15",
+    "generated_date": "2025-09-24T08:30:03.181079+00:00"
 }

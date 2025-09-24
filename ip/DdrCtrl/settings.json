@@ -3,7 +3,7 @@
         "-o",
         "DdrCtrl",
         "--base_path",
-        "E:\\ti60f225\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
+        "D:\\engineering\\fpga\\efinity\\Ti60F225_AD2020_HDMI_Display_30FPS\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
         "--vlnv",
         {
             "vendor": "efinixinc.com",
@@ -47,8 +47,8 @@
         "external_source_source": [
             "DdrCtrl\\DdrCtrl.sv",
             "DdrCtrl\\DdrCtrl_define.svh",
-            "DdrCtrl\\DdrCtrl_tmpl.vhd",
-            "DdrCtrl\\DdrCtrl_tmpl.sv"
+            "DdrCtrl\\DdrCtrl_tmpl.sv",
+            "DdrCtrl\\DdrCtrl_tmpl.vhd"
         ],
         "external_example_example": [
             "DdrCtrl\\Ti180J484_devkit\\ti180_ddr3_controller.xml",
@@ -81,6 +81,6 @@
         ]
     },
     "ooc_synthesis": {},
-    "sw_version": "2025.1.110",
-    "generated_date": "2025-08-27T04:47:45.434356+00:00"
+    "sw_version": "2025.1.110.2.15",
+    "generated_date": "2025-09-24T08:29:48.160141+00:00"
 }

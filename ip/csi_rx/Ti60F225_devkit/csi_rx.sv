@@ -43,7 +43,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////////
 
-`define IP_UUID _395e1dacd0ee459c8121d2c050c73db8
+`define IP_UUID _3dd51eff6c434e5aaeb30d7677ebc6c4
 `define IP_NAME_CONCAT(a,b) a``b
 `define IP_MODULE_NAME(name) `IP_NAME_CONCAT(name,`IP_UUID)
 module csi_rx

@@ -3,7 +3,7 @@
         "-o",
         "afifo_w24d16_r24d16",
         "--base_path",
-        "E:\\ti60f225\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
+        "D:\\engineering\\fpga\\efinity\\Ti60F225_AD2020_HDMI_Display_30FPS\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
         "--vlnv",
         {
             "vendor": "efinixinc.com",
@@ -38,8 +38,8 @@
         "external_source_source": [
             "afifo_w24d16_r24d16\\afifo_w24d16_r24d16.sv",
             "afifo_w24d16_r24d16\\afifo_w24d16_r24d16_define.svh",
-            "afifo_w24d16_r24d16\\afifo_w24d16_r24d16_tmpl.vhd",
-            "afifo_w24d16_r24d16\\afifo_w24d16_r24d16_tmpl.sv"
+            "afifo_w24d16_r24d16\\afifo_w24d16_r24d16_tmpl.sv",
+            "afifo_w24d16_r24d16\\afifo_w24d16_r24d16_tmpl.vhd"
         ],
         "external_example_example": [
             "afifo_w24d16_r24d16\\T20F256_devkit\\fifo_demo.peri.xml",
@@ -70,6 +70,6 @@
         ]
     },
     "ooc_synthesis": {},
-    "sw_version": "2025.1.110",
-    "generated_date": "2025-08-27T04:48:45.795447+00:00"
+    "sw_version": "2025.1.110.2.15",
+    "generated_date": "2025-09-24T08:30:12.096510+00:00"
 }

@@ -3,7 +3,7 @@
         "-o",
         "dsi_tx",
         "--base_path",
-        "E:\\ti60f225\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
+        "D:\\engineering\\fpga\\efinity\\Ti60F225_AD2020_HDMI_Display_30FPS\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
         "--vlnv",
         {
             "vendor": "efinixinc.com",
@@ -52,8 +52,8 @@
         "external_source_source": [
             "dsi_tx\\dsi_tx.sv",
             "dsi_tx\\dsi_tx_define.svh",
-            "dsi_tx\\dsi_tx_tmpl.vhd",
-            "dsi_tx\\dsi_tx_tmpl.sv"
+            "dsi_tx\\dsi_tx_tmpl.sv",
+            "dsi_tx\\dsi_tx_tmpl.vhd"
         ],
         "external_testbench_modelsim": [
             "dsi_tx\\Testbench\\modelsim\\dsi_tx.sv"
@@ -98,6 +98,6 @@
         ]
     },
     "ooc_synthesis": {},
-    "sw_version": "2025.1.110",
-    "generated_date": "2025-08-27T04:47:39.505271+00:00"
+    "sw_version": "2025.1.110.2.15",
+    "generated_date": "2025-09-24T08:29:42.621015+00:00"
 }

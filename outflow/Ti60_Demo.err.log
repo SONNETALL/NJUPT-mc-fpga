@@ -535,3 +535,183 @@
 [EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpag/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
 [EFX-0010 VERI-ERROR] ANSI port 'csi_rxd0_rst_o' cannot be redeclared (VERI-2285) (D:\engineering\fpag\efinity\Ti60F225_AD2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:144)
 [EFX-0010 VERI-ERROR] module 'example_top' is ignored due to previous errors (VERI-1072) (D:\engineering\fpag\efinity\Ti60F225_AD2020_HDMI_Display_30FPS\Ti60F225_AD2020_HDMI_Display_30FPS\example_top.v:1416)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 23, 2025 22:33:03
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 23, 2025 22:35:40
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 23, 2025 22:48:25
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:699)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:715)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:739)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:754)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:791)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:808)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:831)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:847)
+[EFX-0010 VERI-ERROR] module 'efx_fifo_ram_a2e346eb7e3744a1a610ae6ec68943a1' is ignored due to previous errors (VERI-1072) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:888)
+[EFX-0010 VERI-ERROR] module 'efx_fifo_ctl_a2e346eb7e3744a1a610ae6ec68943a1' is ignored due to previous errors (VERI-1072) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:1366)
+[EFX-0010 VERI-ERROR] module 'efx_resetsync_a2e346eb7e3744a1a610ae6ec68943a1' is ignored due to previous errors (VERI-1072) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:1411)
+[EFX-0010 VERI-ERROR] module 'efx_asyncreg_a2e346eb7e3744a1a610ae6ec68943a1' is ignored due to previous errors (VERI-1072) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:1527)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 23, 2025 22:48:47
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:699)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:715)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:739)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:754)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:791)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:808)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:831)
+[EFX-0010 VERI-ERROR] syntax error near ''' (VERI-1137) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:847)
+[EFX-0010 VERI-ERROR] module 'efx_fifo_ram_a2e346eb7e3744a1a610ae6ec68943a1' is ignored due to previous errors (VERI-1072) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:888)
+[EFX-0010 VERI-ERROR] module 'efx_fifo_ctl_a2e346eb7e3744a1a610ae6ec68943a1' is ignored due to previous errors (VERI-1072) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:1366)
+[EFX-0010 VERI-ERROR] module 'efx_resetsync_a2e346eb7e3744a1a610ae6ec68943a1' is ignored due to previous errors (VERI-1072) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:1411)
+[EFX-0010 VERI-ERROR] module 'efx_asyncreg_a2e346eb7e3744a1a610ae6ec68943a1' is ignored due to previous errors (VERI-1072) (D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v:1527)
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 23, 2025 22:49:11
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 24, 2025 16:24:05
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 24, 2025 16:26:40
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Sep 24, 2025 16:31:46
+///////////////////////////////////
+
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO\W0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO\R0_FIFO.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/DdrCtrl\DdrCtrl.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_8\W0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_64\W0_FIFO_64.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/FIFO_W48R24\FIFO_W48R24.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_8\R0_FIFO_8.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_16\R0_FIFO_16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W0_FIFO_32\W0_FIFO_32.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w32r8_reshape\afifo_w32r8_reshape.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/W8R8_D2048_YUV\W8R8_D2048_YUV.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/afifo_w24d16_r24d16\afifo_w24d16_r24d16.v' (SORT-1002) 
+[EFX-0010 VERI-ERROR] cannot open Verilog file 'D:/engineering/fpga/efinity/Ti60F225_AD2020_HDMI_Display_30FPS/Ti60F225_AD2020_HDMI_Display_30FPS\ip/R0_FIFO_32\R0_FIFO_32.v' (SORT-1002) 
+[EFX-0021 ERROR] Elaboration of module 'example_top' failed. Please check previous error messages.

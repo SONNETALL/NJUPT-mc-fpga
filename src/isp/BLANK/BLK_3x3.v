@@ -3,7 +3,7 @@
 // 模块名称: VIP_Matrix_Generate_3X3_8Bit
 // 功能: 生成3x3像素矩阵窗口，适用于高斯滤波等图像处理
 ////////////////////////////////////////////////////////////////////////////////
-module VIP_Matrix_Generate_3X3_8Bit(
+module VIP_Matrix_Generate_3X3_8Bit_fff(
     input               clk,
     input               rst_n,
     input               per_frame_vsync,

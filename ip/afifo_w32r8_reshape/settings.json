@@ -3,7 +3,7 @@
         "-o",
         "afifo_w32r8_reshape",
         "--base_path",
-        "E:\\ti60f225\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
+        "D:\\engineering\\fpga\\efinity\\Ti60F225_AD2020_HDMI_Display_30FPS\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
         "--vlnv",
         {
             "vendor": "efinixinc.com",
@@ -38,8 +38,8 @@
         "external_source_source": [
             "afifo_w32r8_reshape\\afifo_w32r8_reshape.sv",
             "afifo_w32r8_reshape\\afifo_w32r8_reshape_define.svh",
-            "afifo_w32r8_reshape\\afifo_w32r8_reshape_tmpl.vhd",
-            "afifo_w32r8_reshape\\afifo_w32r8_reshape_tmpl.sv"
+            "afifo_w32r8_reshape\\afifo_w32r8_reshape_tmpl.sv",
+            "afifo_w32r8_reshape\\afifo_w32r8_reshape_tmpl.vhd"
         ],
         "external_example_example": [
             "afifo_w32r8_reshape\\T20F256_devkit\\fifo_demo.peri.xml",
@@ -70,6 +70,6 @@
         ]
     },
     "ooc_synthesis": {},
-    "sw_version": "2025.1.110",
-    "generated_date": "2025-08-27T04:48:27.358468+00:00"
+    "sw_version": "2025.1.110.2.15",
+    "generated_date": "2025-09-24T08:30:01.460774+00:00"
 }

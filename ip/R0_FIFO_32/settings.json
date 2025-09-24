@@ -3,7 +3,7 @@
         "-o",
         "R0_FIFO_32",
         "--base_path",
-        "E:\\ti60f225\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
+        "D:\\engineering\\fpga\\efinity\\Ti60F225_AD2020_HDMI_Display_30FPS\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
         "--vlnv",
         {
             "vendor": "efinixinc.com",
@@ -38,8 +38,8 @@
         "external_source_source": [
             "R0_FIFO_32\\R0_FIFO_32.sv",
             "R0_FIFO_32\\R0_FIFO_32_define.svh",
-            "R0_FIFO_32\\R0_FIFO_32_tmpl.vhd",
-            "R0_FIFO_32\\R0_FIFO_32_tmpl.sv"
+            "R0_FIFO_32\\R0_FIFO_32_tmpl.sv",
+            "R0_FIFO_32\\R0_FIFO_32_tmpl.vhd"
         ],
         "external_example_example": [
             "R0_FIFO_32\\T20F256_devkit\\fifo_demo.peri.xml",
@@ -70,6 +70,6 @@
         ]
     },
     "ooc_synthesis": {},
-    "sw_version": "2025.1.110",
-    "generated_date": "2025-08-27T04:48:51.747551+00:00"
+    "sw_version": "2025.1.110.2.15",
+    "generated_date": "2025-09-24T08:30:13.946212+00:00"
 }

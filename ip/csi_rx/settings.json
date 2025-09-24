@@ -3,7 +3,7 @@
         "-o",
         "csi_rx",
         "--base_path",
-        "D:\\temp_colorbar\\Ti60F225_AD2020_HDMI_Display\\ip",
+        "D:\\engineering\\fpga\\efinity\\Ti60F225_AD2020_HDMI_Display_30FPS\\Ti60F225_AD2020_HDMI_Display_30FPS\\ip",
         "--vlnv",
         {
             "vendor": "efinixinc.com",
@@ -40,8 +40,8 @@
         "external_source_source": [
             "csi_rx\\csi_rx.sv",
             "csi_rx\\csi_rx_define.svh",
-            "csi_rx\\csi_rx_tmpl.vhd",
-            "csi_rx\\csi_rx_tmpl.sv"
+            "csi_rx\\csi_rx_tmpl.sv",
+            "csi_rx\\csi_rx_tmpl.vhd"
         ],
         "external_testbench_modelsim": [
             "csi_rx\\Testbench\\modelsim\\csi_rx.sv"
@@ -56,6 +56,8 @@
             "csi_rx\\Testbench\\aldec\\csi_rx.sv"
         ],
         "external_example_example": [
+            "csi_rx\\Ti60F225_devkit\\top.peri.xml",
+            "csi_rx\\Ti60F225_devkit\\top.xml",
             "csi_rx\\Ti60F225_devkit\\csichk.v",
             "csi_rx\\Ti60F225_devkit\\efx_csi2_rx.sv",
             "csi_rx\\Ti60F225_devkit\\efx_csi2_tx.sv",
@@ -65,9 +67,7 @@
             "csi_rx\\Ti60F225_devkit\\vga_chk.v",
             "csi_rx\\Ti60F225_devkit\\vga_gen.v",
             "csi_rx\\Ti60F225_devkit\\csi_rx.sv",
-            "csi_rx\\Ti60F225_devkit\\csi_rx_define.svh",
-            "csi_rx\\Ti60F225_devkit\\top.peri.xml",
-            "csi_rx\\Ti60F225_devkit\\top.xml"
+            "csi_rx\\Ti60F225_devkit\\csi_rx_define.svh"
         ],
         "external_testbench_testbench": [
             "csi_rx\\Testbench\\TI60_MIPI_csi_tb.sv",
@@ -85,5 +85,5 @@
     },
     "ooc_synthesis": {},
     "sw_version": "2025.1.110.2.15",
-    "generated_date": "2025-07-22T02:29:08.786318+00:00"
+    "generated_date": "2025-09-24T08:29:45.264162+00:00"
 }
